@@ -1,4 +1,4 @@
 # hello-world
 Learning
 
-Hi! I'm Nalisha and I love toast.
+Hello! I'm Nalisha and I love toast.
